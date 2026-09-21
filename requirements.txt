@@ -1,0 +1,4 @@
+langgraph>=0.2.0
+# Optional: swap the deterministic parser in graph.py for a real model
+# langchain-openai>=0.2.0
+# langchain-core>=0.3.0
